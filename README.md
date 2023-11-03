@@ -6,7 +6,7 @@ Only works on Meshes
 
 ## Install Instructions ⚠️
 
-Download `hotkeys-fix-123.zip` from the latest *Releases* and install it
+Download [`hotkeys-fix-123.zip`](https://github.com/abhiraaid/hotkeys-fix-123/releases/tag/hotkeys-fix-123) from the latest *Releases* and install it
 
 **OR**
 
