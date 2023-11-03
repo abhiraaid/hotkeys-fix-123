@@ -3,7 +3,7 @@
 This Blender addon simply let's you enter edit mode using 1,2,3 
 
 
-## ⚠️ Install Instructions Instructions ⚠️
+## Install Instructions ⚠️
 Download the zip and **extract** it 
 
 Install the `hotkeys-fix-123.py` file directly
