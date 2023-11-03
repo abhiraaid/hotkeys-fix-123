@@ -1,7 +1,8 @@
 ### Hotkeys Fix 123
 
-This Blender addon let's you enter edit mode using 1,2,3 directly from Object Mode
+This Blender addon let's you enter the respective Edit Mode using 1,2,3 directly from Object Mode
 
+Only works on Meshes
 
 ## Install Instructions ⚠️
 Download the zip and **extract** it 
