@@ -1,4 +1,4 @@
-# Hotkeys Fix 123
+### Hotkeys Fix 123
 
 This Blender addon let's you enter edit mode using 1,2,3 
 
